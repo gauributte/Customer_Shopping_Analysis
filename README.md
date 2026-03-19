@@ -62,7 +62,8 @@ This interactive dashboard provides a comprehensive view of customer shopping be
 
 ## 📷 Dashboard Preview
 
-<img width="1156" height="647" alt="Screenshot 2026-03-20 014046" src="https://github.com/user-attachments/assets/0e60a057-2bbc-47ff-9120-35e6c3718841" />
+<img width="1275" height="654" alt="dashboard" src="https://github.com/user-attachments/assets/48e4701e-0127-49b6-8081-a90c9ff5af7f" />
+
 
 ---
 
