@@ -77,6 +77,12 @@ This interactive dashboard provides a comprehensive view of customer shopping be
 
 ---
 
+## 🚧 Challenges & Solutions
+* Messy Demographics: The original age data was granular. I grouped them into "Young Adult," "Adult," etc., to make the charts readable for stakeholders.
+* Data Integrity: Found several rows with missing shipping types. Instead of deleting them (which would lose revenue data), I categorized them as "Standard" to maintain a conservative estimate.
+
+---
+
 ## ✅ Conclusion
 
 This project provides valuable insights into customer purchasing behavior, helping businesses identify key revenue drivers, target high-value customer segments, and optimize product and marketing strategies.
