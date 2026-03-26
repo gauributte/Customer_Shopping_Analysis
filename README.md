@@ -20,10 +20,10 @@ This interactive dashboard provides a comprehensive view of customer shopping be
 
 ### 🔑 Key Metrics
 
-* **Total Customers:** 646
-* **Total Revenue:** $39.07K
-* **Average Order Value:** $60.48
-* **Average Rating:** 3.77
+* **Total Customers:** 3.9K
+* **Total Revenue:** $233.08K
+* **Average Order Value:** $59.76
+* **Average Rating:** 3.75
 
 ---
 
@@ -62,8 +62,7 @@ This interactive dashboard provides a comprehensive view of customer shopping be
 
 ## 📷 Dashboard Preview
 
-<img width="1275" height="654" alt="dashboard" src="https://github.com/user-attachments/assets/48e4701e-0127-49b6-8081-a90c9ff5af7f" />
-
+<img width="1008" height="570" alt="dashboard png" src="https://github.com/user-attachments/assets/223cfa9b-2e1e-4c75-b638-faa6556da8c3" />
 
 ---
 
