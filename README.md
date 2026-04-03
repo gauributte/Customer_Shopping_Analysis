@@ -1,12 +1,12 @@
-# 🛒 Customer Shopping Behavior Analysis Dashboard
+#  Customer Shopping Behavior Analysis Dashboard
 
-## 📌 Objective
+##  Objective
 
 The objective of this project is to analyze customer shopping behavior and uncover key insights related to revenue trends, customer demographics, and purchasing patterns to support better business decision-making.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Python** (Pandas, Data Cleaning)
 * **SQL** (Data querying and analysis)
@@ -14,11 +14,11 @@ The objective of this project is to analyze customer shopping behavior and uncov
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 This interactive dashboard provides a comprehensive view of customer shopping behavior using key performance indicators and visual insights.
 
-### 🔑 Key Metrics
+###  Key Metrics
 
 * **Total Customers:** 3.9K
 * **Total Revenue:** $233.08K
@@ -27,7 +27,7 @@ This interactive dashboard provides a comprehensive view of customer shopping be
 
 ---
 
-## 📈 Key Visualizations
+##  Key Visualizations
 
 * **Revenue by Gender**
   Displays contribution of male and female customers to overall revenue.
@@ -50,7 +50,7 @@ This interactive dashboard provides a comprehensive view of customer shopping be
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 * **Clothing category generates the highest revenue**, making it the most profitable segment.
 * **Male customers contribute a larger share of revenue (~70%)** compared to female customers.
@@ -66,7 +66,7 @@ This interactive dashboard provides a comprehensive view of customer shopping be
 
 ---
 
-## 🧹 Data Processing Steps
+##  Data Processing Steps
 
 * Cleaned dataset by handling missing values
 * Standardized categorical data
@@ -76,19 +76,19 @@ This interactive dashboard provides a comprehensive view of customer shopping be
 
 ---
 
-## 🚧 Challenges & Solutions
+##  Challenges & Solutions
 * Messy Demographics: The original age data was granular. I grouped them into "Young Adult," "Adult," etc., to make the charts readable for stakeholders.
 * Data Integrity: Found several rows with missing shipping types. Instead of deleting them (which would lose revenue data), I categorized them as "Standard" to maintain a conservative estimate.
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project provides valuable insights into customer purchasing behavior, helping businesses identify key revenue drivers, target high-value customer segments, and optimize product and marketing strategies.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Customer segmentation using machine learning (K-Means clustering)
 * Predictive analysis for future sales trends
